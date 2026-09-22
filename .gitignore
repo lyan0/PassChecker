@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+# Password lists
+rockyou.txt
+*.txt
+!requirements.txt
