@@ -14,6 +14,9 @@ A Python CLI tool that scores password strength and checks against leaked-passwo
 - Customizable symbol list
 - No external dependencies
 
+## Screenshot
+! [Demo](screenshots/demo.png)
+
 ## Scoring
 
 | Rule | Points |
